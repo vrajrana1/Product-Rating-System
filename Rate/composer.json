@@ -1,0 +1,13 @@
+{
+    "name": "admin/rate",
+    "description": "Product Rate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vraj"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
